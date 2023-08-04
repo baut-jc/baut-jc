@@ -29,6 +29,22 @@
   </em>
 </p>
 
+## <p align="center" >Skills</p>
+<p align="Center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux.js-311C87?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+</p>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baut-jc&show_icons=true&theme=great-gatsby")/>
 </div>
