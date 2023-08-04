@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
 </p>
 
-
+## <p align="center" >Stats</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baut-jc&show_icons=true&theme=great-gatsby")/>
 </div>
